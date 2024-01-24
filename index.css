@@ -11,6 +11,7 @@ body{
     height: 90px;
     justify-content: space-evenly;
     background-color: rgb(187, 238, 238);
+    padding-bottom: 30px;
 }
 .fir{
     list-style-type: none;
@@ -53,6 +54,7 @@ body{
 .s2{
     background-color: aquamarine;
     height: 185px;
+    padding-bottom: 5%;
 }
 .remo{
     background-color:rgb(186, 219, 219);
